@@ -1,6 +1,6 @@
 # booktracker
 
-Project Overview: The book tracker is a web application that allows the user to manage their reading list by adding, viewing, updating, and deleting books. It is designed to help book enthusiasts organize reading habits and keep track of their progress.
+The book tracker is a web application that allows the user to manage their reading list by adding, viewing, updating, and deleting books. It is designed to help book enthusiasts organize reading habits and keep track of their progress.
 
 Project Features:
 - Add Books: Users can add books with details such as the Title, Author, Number of Pages, Current Status (To Read, Reading, or Finished), Book Notes, and Book Rating.
